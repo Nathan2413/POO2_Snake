@@ -86,6 +86,10 @@ Ce dépôt contient le code source d'un jeu Snake développé en Java avec l'uti
 
 ![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/47ca0fad-bde5-4ac1-b557-6605dbc7b745)
 
+14. **Fin de partie :**
+    - Une fois que la partie est terminée et que le joueur a perdu, l'application affiche un message "Game Over" dans la sortie (output). Prenez le temps de réfléchir à votre stratégie et revenez plus fort pour battre votre meilleur score !
+
+![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/8142b60f-e5c0-4b44-8e96-f3fc1699c1e6)
 
 
 
