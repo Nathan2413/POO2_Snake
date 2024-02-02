@@ -23,7 +23,8 @@ Ce dépôt contient le code source d'un jeu Snake développé en Java avec l'uti
 4. **Ouverture dans Eclipse :**
    - Lancez Eclipse et ouvrez le workspace.
    - Cliquez sur "File" puis "Open File".
-![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/08980fe9-6c7f-48d3-8eff-cb8433095e46)
+  ![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/777223c0-b91b-41ea-9b7e-e7f5e3d2de45)
+
 
 5. **Ouverture du fichier source :**
    - Ouvrez le fichier `Java_Snake_Fx/src/SnakeApp.java` dans Eclipse.
