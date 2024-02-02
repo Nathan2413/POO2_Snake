@@ -23,7 +23,7 @@ Ce dépôt contient le code source d'un jeu Snake développé en Java avec l'uti
 4. **Ouverture dans Eclipse :**
    - Lancez Eclipse et ouvrez le workspace.
    - Cliquez sur "File" puis "Open File".
-![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/592b6b19-a720-4671-9641-19c141f0d51d)
+![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/08980fe9-6c7f-48d3-8eff-cb8433095e46)
 
 5. **Ouverture du fichier source :**
    - Ouvrez le fichier `Java_Snake_Fx/src/SnakeApp.java` dans Eclipse.
@@ -32,7 +32,7 @@ Ce dépôt contient le code source d'un jeu Snake développé en Java avec l'uti
    - Cliquez avec le bouton droit sur le projet, puis sélectionnez "Build Path" et enfin "Configure Build Path".
 
 7. **Ajout des JARs externes :**
-   - Sélectionnez l'onglet "ModulePath", puis cliquez sur "Add External JARs".
+   - Sélectionnez l'onglet "Modulepath", puis cliquez sur "Add External JARs".
 
 8. **Sélection des fichiers JavaFX :**
    - Naviguez jusqu'au dossier où vous avez extrait le fichier JavaFX (chemin : `javafx-sdk-21.0.2\lib`).
@@ -43,4 +43,17 @@ Ce dépôt contient le code source d'un jeu Snake développé en Java avec l'uti
 
 10. **Lancement du projet :**
     - Cliquez sur "Run", puis sélectionnez "Run Configurations".
+
+11. **Configuration des arguments VM :**
+    - Cliquez sur "Arguments" puis sur "VM arguments".
+    - Modifiez les arguments VM en écrivant le code suivant : 
+      ```
+      --module-path "path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx.fxml
+      ```
+
+12. **Lancement du programme :**
+    - Cliquez sur "Run" pour lancer le programme.
+
+13. **Exécution après le lancement :**
+    - Amusez-vous en jouant à Snake sur votre application JavaFX fraîchement lancée !
 
