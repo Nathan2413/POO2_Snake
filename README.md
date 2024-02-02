@@ -39,6 +39,8 @@ Ce dépôt contient le code source d'un jeu Snake développé en Java avec l'uti
 
 7. **Ajout des JARs externes :**
    - Sélectionnez l'onglet "Modulepath", puis cliquez sur "Add External JARs".
+![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/9e5e6ed0-fbca-4dde-9052-406da41f2867)
+
 
 8. **Sélection des fichiers JavaFX :**
    - Naviguez jusqu'au dossier où vous avez extrait le fichier JavaFX (chemin : `javafx-sdk-21.0.2\lib`).
