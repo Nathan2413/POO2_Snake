@@ -23,14 +23,19 @@ Ce dépôt contient le code source d'un jeu Snake développé en Java avec l'uti
 4. **Ouverture dans Eclipse :**
    - Lancez Eclipse et ouvrez le workspace.
    - Cliquez sur "File" puis "Open File".
+     
   ![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/777223c0-b91b-41ea-9b7e-e7f5e3d2de45)
 
 
 5. **Ouverture du fichier source :**
    - Ouvrez le fichier `Java_Snake_Fx/src/SnakeApp.java` dans Eclipse.
+     
+![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/4332a1df-6c90-4be8-9b98-cb1a6ab71049)
 
 6. **Configuration du Build Path :**
    - Cliquez avec le bouton droit sur le projet, puis sélectionnez "Build Path" et enfin "Configure Build Path".
+   - 
+![image](https://github.com/Nathan2413/POO2_Snake/assets/109501880/ad80357b-1451-4a68-a230-4699ba2cf920)
 
 7. **Ajout des JARs externes :**
    - Sélectionnez l'onglet "Modulepath", puis cliquez sur "Add External JARs".
